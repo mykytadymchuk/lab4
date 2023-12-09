@@ -1,0 +1,36 @@
+body {
+    background-color: #A9CCE3;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    color: #273746;
+    font-size: 40px;
+    text-align: center;
+}
+
+#menu {
+    text-align: center;
+    margin-top: 50px;
+    line-height: 50px;
+    font-size: 30px;
+}
+
+#login {
+    font-size: 20px;
+    position: fixed;
+    left: 20px;
+    bottom: 20px;
+}
+
+#delete {
+    position: fixed;
+    bottom: 40px;
+    right: 40px;
+}
+
+#deleteButton {
+    font-size: 20px;
+    height: 40px;
+    width: 120px;
+}

@@ -1,0 +1,26 @@
+body {
+    background-color: #A2D9CE;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    color: #273746;
+    font-size: 35px;
+    text-align: center;
+}
+
+#loginText {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+#loginInput {
+    text-align: center;
+}
+
+#guest {
+    text-align: center;
+    margin-top: 50px;
+}
